@@ -1,3 +1,3 @@
-# pivio.ai: Built on principling separation of concerns and loose coupling. Cross-cutting concerns for hex editing, no error-handling, no exception handling in debugging try/catches.
+# pivio.ai: built-in information security principles, separation of concerns, cross-cutting concerns, loosely coupled hex editors, error-handling, exception handling, and debugging try/catch blocks.
 
 parameterize(expand *text).identifiers(add/remove &index).vectoring(xor).io
